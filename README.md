@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! I'm kexxti
+
+> ASTU Student
+> ex School21  
 
 <!--
 **kexxti/kexxti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
